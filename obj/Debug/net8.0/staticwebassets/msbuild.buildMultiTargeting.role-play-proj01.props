@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\role-play-proj01.props" />
+</Project>
